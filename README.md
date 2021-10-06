@@ -21,5 +21,5 @@ Then include libraries from freetype to project and compile
 
 ## Why you dont should use this
 
-- Obiovusly detected cause it's using minhooks
+- Obviously detected cause it's using minhooks
 - Coded by for study proposes, try to eject the bests and use in your future projects
