@@ -1,12 +1,3 @@
-## Features
-
-- Easy integration with IL2CPP CPP Project
-- Included DirectX Drawing ([DirectX Toolkit](https://github.com/microsoft/DirectXTK))
-- Clear file structure, it will be pleasant to the eyes
-
-This is only a project for self-study, I do not pretend to be the #1 hacker, but I tried to make a project convenient for myself and decided to put it here.
-
-Please, do not inject this in games with good anticheat, like EAC(satire), BattleEye, or VAC and etc
 
 ## Step-by-step installing
 Get vcpkg from here [vcpkg.io](https://vcpkg.io/en/index.html "vcpkg.io")
